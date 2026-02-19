@@ -41,10 +41,9 @@ I am a first-year Information Technology student with a deep focus on **Machine 
 
 ## 🤝 Let's Connect
 <p align="left">
-<a href="[[https://linkedin.com/in/anuvesh-tiwari](https://www.linkedin.com/in/anuvesh-tiwari-b5a618375/)](https://www.linkedin.com/in/anuvesh-tiwari-b5a618375/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anuvesh-tiwari-b5a618375/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:anuvesh2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/aanuvesh24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
 *“Turning data into decisions, one model at a time.”*
